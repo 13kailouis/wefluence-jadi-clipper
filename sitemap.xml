@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://13kailouis.github.io/wefluence-jadi-clipper/</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -123,6 +123,12 @@
   <url>
     <loc>https://13kailouis.github.io/wefluence-jadi-clipper/cara-memilih-konten-yang-tepat-untuk-di-clip-agar-menghasilkan.html</loc>
     <lastmod>2026-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://13kailouis.github.io/wefluence-jadi-clipper/cara-memilih-konten-clip-menghasilkan.html</loc>
+    <lastmod>2026-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
